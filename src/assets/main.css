@@ -1,0 +1,25 @@
+@import './base.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*  COLOR PALLETE 
+
+    Primary Color : #3BAA56 (Forest Green) // Branding elements headers, buttons and links
+    Secondary Color: [ 
+                        #FFC857 (Golden Sunburst) // Highlight important information
+                        #3CAEA3 (Turquoise Blue) // Background elements and icons
+                        #D72638 (Magenta Magic) // Grabbing elements
+                    ]
+    Neutral Colors: 
+                    [
+                        #985D4A (Red Earth) // Backgrounds, borders or text
+                        #FF9F1C (Sunset Orange) // Hover, subtle accents or warm background
+                        #69306D (Royal Purple) // Decorate Elements, dividers or to add depth
+                    ]
+    
+    TEXT - #f6f1ef / #ede2de / #ffffff
+
+*/
